@@ -1,6 +1,6 @@
 # Flappy-Bird-AI
 
-Beginning with the 50 birds at generation 0
+Starting with the 50 birds at generation 0
 ![Ekran Görüntüsü (14)](https://user-images.githubusercontent.com/109307635/204010193-e627f655-c550-4d2f-9d42-ed027eff54e6.png)
 
 Generation 1
